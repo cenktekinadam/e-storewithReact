@@ -17,7 +17,7 @@
 - **react-icons:** İkon setini kullanmak için kullanılmıştır.
 - **react-router-dom:** Single-page uygulama içerisindeki route'ları yönetmek için kullanılmıştır.
 - **react-toastify:** Bildirimlerin gösterilmesi için kullanılmıştır.
-- **react-ContexAPI:** Prop Drilling yaptıgımız state yönetimine nazaran Performansı arttırılmak,State yönetimini daha ulaşılabilir hale getirmek ve Kod Düzenini Okunabilirliğini geliştirmesi amacıyla kullanılmıştır. 
+- **react-ContexAPI:** Prop Drilling yaptıgımız state yönetimine nazaran Performansı arttırmak,State yönetimini daha ulaşılabilir hale getirmek ve Kod Düzenini Okunabilirliğini geliştirmesi amacıyla kullanılmıştır. 
 
 ### Ekran Görüntüsü
 
