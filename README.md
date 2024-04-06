@@ -4,7 +4,7 @@
 
 ## Proje Hakkında
 
-<h1>Bu Proje React ve kütüphanelerinin davranışlarını incelemek adıyla geliştirilmiştir.Fake Apı kullanılmış ve aşşağıda belirtilen teknolojiler kullanıkmıştır </h1>
+<h4>Bu Proje React ve kütüphanelerinin davranışlarını incelemek adıyla geliştirilmiştir.Fake Apı kullanılmıştır </h4>
 
 
 ## Kullanılan Teknolojiler
